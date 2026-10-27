@@ -1,7 +1,6 @@
-# B¿I THI TH?C H¿NH - C¬U 1
-- H? v‡ tÍn: Nguy?n Tr?ng Ph˙c
+# B√ÄI THI TH·ª∞C H√ÄNH - C√ÇU 2
+- H·ªç v√† t√™n: Nguy·ªÖn Tr·ªçng Ph√∫c
 - MSSV: 2474802010317
 
-## Minh ch?ng C‚u 1
-![Validation Error](screenshots/cau1_validation_error.png)
-![Validation Success](screenshots/cau1_validation_success.png)
+## Minh ch·ª©ng C√¢u 2
+![Profile Intent](screenshots/cau2_profile_intent.png)
